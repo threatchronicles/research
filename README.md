@@ -1,2 +1,2 @@
-# research
-Technical details related to our blog posts.
+# Research
+Technical details (IoCs, Signatures) related to our blog posts.
